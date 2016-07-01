@@ -1,0 +1,21 @@
+.navbar-default .navbar-nav li {
+	text-align: center;
+}
+
+#navbar-example {
+	background-color: #e3e1d5
+}
+
+.container>.row>div {
+	height: 700px;
+}
+
+#container-1 {
+	position: relative;
+}
+
+.row > div > div {
+	background-color: #f2f2eb;
+	margin: 10px;
+	padding: 10px;
+}
